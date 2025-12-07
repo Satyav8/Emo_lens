@@ -1,0 +1,86 @@
+[
+    {
+        "timestamp": "2025-12-07T22:06:36.336506",
+        "fused_emotion": {
+            "emotion": "surprise",
+            "valence": 0.5,
+            "arousal": 0.15710601210594177,
+            "confidence": 0.15710601210594177,
+            "modalities": {
+                "video": {
+                    "emotion": "surprise",
+                    "confidence": 0.15710601210594177,
+                    "valence": 0.5,
+                    "arousal": 0.15710601210594177
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "low",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    },
+    {
+        "timestamp": "2025-12-07T22:07:15.221014",
+        "fused_emotion": {
+            "emotion": "positive",
+            "valence": 0.6633403546616302,
+            "arousal": 0.3146428740795001,
+            "confidence": 0.42855300605297086,
+            "modalities": {
+                "video": {
+                    "emotion": "surprise",
+                    "confidence": 0.15710601210594177,
+                    "valence": 0.5,
+                    "arousal": 0.15710601210594177
+                },
+                "text": {
+                    "emotion": "positive",
+                    "confidence": 0.7,
+                    "valence": 0.7,
+                    "arousal": 0.35
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "high",
+            "cognitive_load": "medium",
+            "predicted_state": "improving",
+            "recommended_action": "advance",
+            "micro_prompt": "You're doing great\u2014want to try something harder?"
+        }
+    },
+    {
+        "timestamp": "2025-12-07T22:07:25.172469",
+        "fused_emotion": {
+            "emotion": "positive",
+            "valence": 0.6633403546616302,
+            "arousal": 0.3146428740795001,
+            "confidence": 0.42855300605297086,
+            "modalities": {
+                "video": {
+                    "emotion": "surprise",
+                    "confidence": 0.15710601210594177,
+                    "valence": 0.5,
+                    "arousal": 0.15710601210594177
+                },
+                "text": {
+                    "emotion": "positive",
+                    "confidence": 0.7,
+                    "valence": 0.7,
+                    "arousal": 0.35
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "high",
+            "cognitive_load": "medium",
+            "predicted_state": "improving",
+            "recommended_action": "advance",
+            "micro_prompt": "You're doing great\u2014want to try something harder?"
+        }
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "timestamp": "2025-12-07T21:49:17.517713",
+        "fused_emotion": {
+            "emotion": "disgust",
+            "valence": -0.8000000000000002,
+            "arousal": 0.22089923918247223,
+            "confidence": 0.22089923918247223,
+            "modalities": {
+                "video": {
+                    "emotion": "disgust",
+                    "confidence": 0.22089923918247223,
+                    "valence": -0.8,
+                    "arousal": 0.22089923918247223
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "low",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:49:56.699213",
+        "fused_emotion": {
+            "emotion": "disgust",
+            "valence": -0.8000000000000002,
+            "arousal": 0.22089923918247223,
+            "confidence": 0.22089923918247223,
+            "modalities": {
+                "video": {
+                    "emotion": "disgust",
+                    "confidence": 0.22089923918247223,
+                    "valence": -0.8,
+                    "arousal": 0.22089923918247223
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "low",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "timestamp": "2025-12-07T21:32:50.666274",
+        "fused_emotion": {
+            "emotion": "contempt",
+            "valence": -0.6,
+            "arousal": 0.3185732960700989,
+            "confidence": 0.3185732960700989,
+            "modalities": {
+                "video": {
+                    "emotion": "contempt",
+                    "confidence": 0.3185732960700989,
+                    "valence": -0.6,
+                    "arousal": 0.3185732960700989
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:33:32.738526",
+        "fused_emotion": {
+            "emotion": "negative",
+            "valence": -0.5389181149201351,
+            "arousal": 0.2766874341690856,
+            "confidence": 0.40928664803504944,
+            "modalities": {
+                "video": {
+                    "emotion": "contempt",
+                    "confidence": 0.3185732960700989,
+                    "valence": -0.6,
+                    "arousal": 0.3185732960700989
+                },
+                "text": {
+                    "emotion": "negative",
+                    "confidence": 0.5,
+                    "valence": -0.5,
+                    "arousal": 0.25
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:34:12.069461",
+        "fused_emotion": {
+            "emotion": "contempt",
+            "valence": -0.6,
+            "arousal": 0.29995086789131165,
+            "confidence": 0.29995086789131165,
+            "modalities": {
+                "video": {
+                    "emotion": "contempt",
+                    "confidence": 0.29995086789131165,
+                    "valence": -0.6,
+                    "arousal": 0.29995086789131165
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:34:32.159234",
+        "fused_emotion": {
+            "emotion": "contempt",
+            "valence": -0.6,
+            "arousal": 0.29995086789131165,
+            "confidence": 0.14997543394565582,
+            "modalities": {
+                "video": {
+                    "emotion": "contempt",
+                    "confidence": 0.29995086789131165,
+                    "valence": -0.6,
+                    "arousal": 0.29995086789131165
+                },
+                "text": {
+                    "emotion": "neutral",
+                    "confidence": 0.0,
+                    "valence": 0.0,
+                    "arousal": 0.0
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:34:42.702611",
+        "fused_emotion": {
+            "emotion": "contempt",
+            "valence": -0.6,
+            "arousal": 0.29995086789131165,
+            "confidence": 0.14997543394565582,
+            "modalities": {
+                "video": {
+                    "emotion": "contempt",
+                    "confidence": 0.29995086789131165,
+                    "valence": -0.6,
+                    "arousal": 0.29995086789131165
+                },
+                "text": {
+                    "emotion": "neutral",
+                    "confidence": 0.0,
+                    "valence": 0.0,
+                    "arousal": 0.0
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    }
+]

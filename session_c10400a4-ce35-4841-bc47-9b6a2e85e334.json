@@ -1,0 +1,116 @@
+[
+    {
+        "timestamp": "2025-12-07T21:53:04.998200",
+        "fused_emotion": {
+            "emotion": "surprise",
+            "valence": 0.5,
+            "arousal": 0.2532498240470886,
+            "confidence": 0.2532498240470886,
+            "modalities": {
+                "video": {
+                    "emotion": "surprise",
+                    "confidence": 0.2532498240470886,
+                    "valence": 0.5,
+                    "arousal": 0.2532498240470886
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:53:27.469383",
+        "fused_emotion": {
+            "emotion": "neutral",
+            "valence": 0.10362050881794353,
+            "arousal": 0.1921182876868991,
+            "confidence": 0.2612402966389289,
+            "modalities": {
+                "video": {
+                    "emotion": "surprise",
+                    "confidence": 0.2532498240470886,
+                    "valence": 0.5,
+                    "arousal": 0.2532498240470886
+                },
+                "text": {
+                    "emotion": "neutral",
+                    "confidence": 0.26923076923076916,
+                    "valence": -0.26923076923076916,
+                    "arousal": 0.13461538461538458
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "low",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:53:34.217818",
+        "fused_emotion": {
+            "emotion": "neutral",
+            "valence": 0.10362050881794353,
+            "arousal": 0.1921182876868991,
+            "confidence": 0.2612402966389289,
+            "modalities": {
+                "video": {
+                    "emotion": "surprise",
+                    "confidence": 0.2532498240470886,
+                    "valence": 0.5,
+                    "arousal": 0.2532498240470886
+                },
+                "text": {
+                    "emotion": "neutral",
+                    "confidence": 0.26923076923076916,
+                    "valence": -0.26923076923076916,
+                    "arousal": 0.13461538461538458
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "low",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:53:55.757262",
+        "fused_emotion": {
+            "emotion": "neutral",
+            "valence": 0.10362050881794353,
+            "arousal": 0.1921182876868991,
+            "confidence": 0.2612402966389289,
+            "modalities": {
+                "video": {
+                    "emotion": "surprise",
+                    "confidence": 0.2532498240470886,
+                    "valence": 0.5,
+                    "arousal": 0.2532498240470886
+                },
+                "text": {
+                    "emotion": "neutral",
+                    "confidence": 0.26923076923076916,
+                    "valence": -0.26923076923076916,
+                    "arousal": 0.13461538461538458
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "low",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    }
+]

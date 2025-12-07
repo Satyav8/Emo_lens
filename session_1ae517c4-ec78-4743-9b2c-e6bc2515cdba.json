@@ -1,0 +1,86 @@
+[
+    {
+        "timestamp": "2025-12-07T21:24:34.789415",
+        "fused_emotion": {
+            "emotion": "neutral",
+            "valence": 0.0,
+            "arousal": 0.253062903881073,
+            "confidence": 0.253062903881073,
+            "modalities": {
+                "video": {
+                    "emotion": "neutral",
+                    "confidence": 0.253062903881073,
+                    "valence": 0,
+                    "arousal": 0.253062903881073
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:25:02.011544",
+        "fused_emotion": {
+            "emotion": "negative",
+            "valence": -0.331977579444653,
+            "arousal": 0.2510292730480525,
+            "confidence": 0.3765314519405365,
+            "modalities": {
+                "video": {
+                    "emotion": "neutral",
+                    "confidence": 0.253062903881073,
+                    "valence": 0,
+                    "arousal": 0.253062903881073
+                },
+                "text": {
+                    "emotion": "negative",
+                    "confidence": 0.5,
+                    "valence": -0.5,
+                    "arousal": 0.25
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:25:12.196583",
+        "fused_emotion": {
+            "emotion": "negative",
+            "valence": -0.331977579444653,
+            "arousal": 0.2510292730480525,
+            "confidence": 0.3765314519405365,
+            "modalities": {
+                "video": {
+                    "emotion": "neutral",
+                    "confidence": 0.253062903881073,
+                    "valence": 0,
+                    "arousal": 0.253062903881073
+                },
+                "text": {
+                    "emotion": "negative",
+                    "confidence": 0.5,
+                    "valence": -0.5,
+                    "arousal": 0.25
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    }
+]

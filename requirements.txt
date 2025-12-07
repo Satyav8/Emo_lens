@@ -1,0 +1,15 @@
+opencv-python
+numpy
+pillow
+librosa
+soundfile
+textblob
+streamlit
+torch
+torchvision
+streamlit
+supabase
+python-dotenv
+
+
+

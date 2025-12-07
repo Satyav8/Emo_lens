@@ -1,0 +1,50 @@
+[
+    {
+        "timestamp": "2025-12-07T21:23:41.865881",
+        "fused_emotion": {
+            "emotion": "neutral",
+            "valence": 0.0,
+            "arousal": 0.24678458273410797,
+            "confidence": 0.24678458273410797,
+            "modalities": {
+                "video": {
+                    "emotion": "neutral",
+                    "confidence": 0.24678458273410797,
+                    "valence": 0,
+                    "arousal": 0.24678458273410797
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "low",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    },
+    {
+        "timestamp": "2025-12-07T21:23:57.799294",
+        "fused_emotion": {
+            "emotion": "neutral",
+            "valence": 0.0,
+            "arousal": 0.24678458273410797,
+            "confidence": 0.24678458273410797,
+            "modalities": {
+                "video": {
+                    "emotion": "neutral",
+                    "confidence": 0.24678458273410797,
+                    "valence": 0,
+                    "arousal": 0.24678458273410797
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "low",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    }
+]
