@@ -5,6 +5,7 @@ from fer import FER
 import numpy as np
 from PIL import Image
 import io
+from multimodal_emotion.types import Modality
 
 _detector = FER(mtcnn=True)
 
@@ -29,12 +30,12 @@ def analyze_video_frame(frame_bytes):
     valence = VALENCE_MAP.get(emotion, 0)
     arousal = abs(conf)  
 
-    return {
-        "emotion": emotion,
-        "confidence": float(conf),
-        "valence": valence,
-        "arousal": arousal
-    }
+    return Modality(
+    emotion=emotion,
+    confidence=float(conf),
+    valence=valence,
+    arousal=arousal
+)
 
 
 

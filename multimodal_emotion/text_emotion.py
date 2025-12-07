@@ -1,5 +1,6 @@
 # text_emotion.py
 from textblob import TextBlob
+from multimodal_emotion.types import Modality
 
 def analyze_text(text):
     if not text or text.strip() == "":
@@ -14,10 +15,10 @@ def analyze_text(text):
     else:
         emotion = "neutral"
 
-    return {
-        "emotion": emotion,
-        "confidence": abs(polarity),
-        "valence": float(polarity),
-        "arousal": abs(float(polarity)) * 0.5
-    }
+    return Modality(
+    emotion=emotion,
+    confidence=abs(polarity),
+    valence=float(polarity),
+    arousal=abs(float(polarity)) * 0.5
+)
 

@@ -234,6 +234,7 @@ if page == "Student (Live)":
         fusion = None
         st.warning("Fusion error: " + str(e))
 
+
     if fusion:
         brain_out = analyze_state(fusion)
         session_manager.log(fusion, brain_out)
@@ -263,6 +264,11 @@ if page == "Student (Live)":
     # Display outputs — polished UI
     st.markdown("## 🎭 Emotional Snapshot")
     if fusion:
+        status_placeholder.markdown(
+        f"**{fusion.final_emotion.upper()}**  \n"
+        f"Valence: {fusion.valence:.2f} · Arousal: {fusion.arousal:.2f} · Confidence: {fusion.confidence:.2f}"
+        )
+        action_placeholder.info(suggest_action(fusion))
         # orb + label
         st.markdown(emotion_orb(fusion.valence, fusion.arousal), unsafe_allow_html=True)
         st.markdown(f"### {fusion.final_emotion.upper()} • Valence {fusion.valence:.2f} • Arousal {fusion.arousal:.2f}")
@@ -300,6 +306,7 @@ if page == "Student (Live)":
     if st.button("End Session & Save Timeline"):
         path = session_manager.end_session()
         st.success(f"Session saved → {path}")
+
 
 ###########################################
 #   PAGE 2 — Educator Dashboard (Charts)   #

@@ -1,0 +1,116 @@
+[
+    {
+        "timestamp": "2025-12-08T01:29:13.670204",
+        "fused_emotion": {
+            "emotion": "happy",
+            "valence": 1.0,
+            "arousal": 0.54,
+            "confidence": 0.54,
+            "modalities": {
+                "video": {
+                    "emotion": "happy",
+                    "confidence": 0.54,
+                    "valence": 1,
+                    "arousal": 0.54
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "high",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "advance",
+            "micro_prompt": "You're doing great\u2014want to try something harder?"
+        }
+    },
+    {
+        "timestamp": "2025-12-08T01:29:52.638828",
+        "fused_emotion": {
+            "emotion": "happy",
+            "valence": 0.7596153846153846,
+            "arousal": 0.4005769230769231,
+            "confidence": 0.52,
+            "modalities": {
+                "video": {
+                    "emotion": "happy",
+                    "confidence": 0.54,
+                    "valence": 1,
+                    "arousal": 0.54
+                },
+                "text": {
+                    "emotion": "positive",
+                    "confidence": 0.5,
+                    "valence": 0.5,
+                    "arousal": 0.25
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "high",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "advance",
+            "micro_prompt": "You're doing great\u2014want to try something harder?"
+        }
+    },
+    {
+        "timestamp": "2025-12-08T01:30:06.851130",
+        "fused_emotion": {
+            "emotion": "happy",
+            "valence": 0.7596153846153846,
+            "arousal": 0.4005769230769231,
+            "confidence": 0.52,
+            "modalities": {
+                "video": {
+                    "emotion": "happy",
+                    "confidence": 0.54,
+                    "valence": 1,
+                    "arousal": 0.54
+                },
+                "text": {
+                    "emotion": "positive",
+                    "confidence": 0.5,
+                    "valence": 0.5,
+                    "arousal": 0.25
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "high",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "advance",
+            "micro_prompt": "You're doing great\u2014want to try something harder?"
+        }
+    },
+    {
+        "timestamp": "2025-12-08T01:30:47.545651",
+        "fused_emotion": {
+            "emotion": "happy",
+            "valence": 0.7596153846153846,
+            "arousal": 0.4005769230769231,
+            "confidence": 0.52,
+            "modalities": {
+                "video": {
+                    "emotion": "happy",
+                    "confidence": 0.54,
+                    "valence": 1,
+                    "arousal": 0.54
+                },
+                "text": {
+                    "emotion": "positive",
+                    "confidence": 0.5,
+                    "valence": 0.5,
+                    "arousal": 0.25
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "high",
+            "cognitive_load": "medium",
+            "predicted_state": "stable",
+            "recommended_action": "advance",
+            "micro_prompt": "You're doing great\u2014want to try something harder?"
+        }
+    }
+]
