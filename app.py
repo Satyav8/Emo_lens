@@ -3,8 +3,12 @@
 #     Student + Dashboard   #
 #############################
 
+
 from dotenv import load_dotenv
 load_dotenv()  # MUST be first
+
+import os
+os.system("pip install fer==20.0.0 mtcnn tensorflow==2.12.0")
 
 import os
 import json
