@@ -1,9 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
 supabase
 python-dotenv
 numpy
 Pillow
-opencv-python
+opencv-python-headless
 torch
 torchvision
 transformers
