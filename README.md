@@ -259,12 +259,6 @@ If you’d like to add a new modality, improve accuracy, or extend the dashboard
 
 ---
 
-# ⭐ License
-
-MIT License
-
----
-
 # ✨ Author
 
 **Satya Prabhas** (2025)
