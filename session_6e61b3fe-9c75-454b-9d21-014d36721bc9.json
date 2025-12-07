@@ -1,0 +1,152 @@
+[
+    {
+        "timestamp": "2025-12-08T00:49:47.426377",
+        "fused_emotion": {
+            "emotion": "happy",
+            "valence": 1.0,
+            "arousal": 0.99,
+            "confidence": 0.99,
+            "modalities": {
+                "video": {
+                    "emotion": "happy",
+                    "confidence": 0.99,
+                    "valence": 1,
+                    "arousal": 0.99
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "high",
+            "cognitive_load": "high",
+            "predicted_state": "stable",
+            "recommended_action": "advance",
+            "micro_prompt": "You're doing great\u2014want to try something harder?"
+        }
+    },
+    {
+        "timestamp": "2025-12-08T00:50:12.763640",
+        "fused_emotion": {
+            "emotion": "happy",
+            "valence": 1.0,
+            "arousal": 0.99,
+            "confidence": 0.99,
+            "modalities": {
+                "video": {
+                    "emotion": "happy",
+                    "confidence": 0.99,
+                    "valence": 1,
+                    "arousal": 0.99
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "high",
+            "cognitive_load": "high",
+            "predicted_state": "stable",
+            "recommended_action": "advance",
+            "micro_prompt": "You're doing great\u2014want to try something harder?"
+        }
+    },
+    {
+        "timestamp": "2025-12-08T00:50:35.661997",
+        "fused_emotion": {
+            "emotion": "happy",
+            "valence": 0.9106145251396649,
+            "arousal": 0.7263128491620112,
+            "confidence": 0.895,
+            "modalities": {
+                "video": {
+                    "emotion": "happy",
+                    "confidence": 0.99,
+                    "valence": 1,
+                    "arousal": 0.99
+                },
+                "text": {
+                    "emotion": "positive",
+                    "confidence": 0.8,
+                    "valence": 0.8,
+                    "arousal": 0.4
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "high",
+            "cognitive_load": "high",
+            "predicted_state": "stable",
+            "recommended_action": "advance",
+            "micro_prompt": "You're doing great\u2014want to try something harder?"
+        }
+    },
+    {
+        "timestamp": "2025-12-08T00:51:00.041408",
+        "fused_emotion": {
+            "emotion": "happy",
+            "valence": 0.492862457142755,
+            "arousal": 0.700521342722397,
+            "confidence": 0.8056251533826192,
+            "modalities": {
+                "video": {
+                    "emotion": "happy",
+                    "confidence": 0.99,
+                    "valence": 1,
+                    "arousal": 0.99
+                },
+                "audio": {
+                    "emotion": "fearful",
+                    "confidence": 0.6268754601478577,
+                    "valence": -0.7,
+                    "arousal": 0.6268754601478577
+                },
+                "text": {
+                    "emotion": "positive",
+                    "confidence": 0.8,
+                    "valence": 0.8,
+                    "arousal": 0.4
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "high",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    },
+    {
+        "timestamp": "2025-12-08T00:51:44.638744",
+        "fused_emotion": {
+            "emotion": "happy",
+            "valence": 0.492862457142755,
+            "arousal": 0.700521342722397,
+            "confidence": 0.8056251533826192,
+            "modalities": {
+                "video": {
+                    "emotion": "happy",
+                    "confidence": 0.99,
+                    "valence": 1,
+                    "arousal": 0.99
+                },
+                "audio": {
+                    "emotion": "fearful",
+                    "confidence": 0.6268754601478577,
+                    "valence": -0.7,
+                    "arousal": 0.6268754601478577
+                },
+                "text": {
+                    "emotion": "positive",
+                    "confidence": 0.8,
+                    "valence": 0.8,
+                    "arousal": 0.4
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "medium",
+            "cognitive_load": "high",
+            "predicted_state": "stable",
+            "recommended_action": "continue",
+            "micro_prompt": "Let's go ahead at this pace."
+        }
+    }
+]
