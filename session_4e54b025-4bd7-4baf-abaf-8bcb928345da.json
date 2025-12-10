@@ -1,0 +1,128 @@
+[
+    {
+        "timestamp": "2025-12-10T07:04:02.425148",
+        "fused_emotion": {
+            "emotion": "sad",
+            "valence": -0.6,
+            "arousal": 0.5529407612461632,
+            "confidence": 0.35294076124616325,
+            "modalities": {
+                "video": {
+                    "emotion": "sad",
+                    "confidence": 0.35294076124616325,
+                    "valence": -0.6,
+                    "arousal": 0.5529407612461632
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "high",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    },
+    {
+        "timestamp": "2025-12-10T07:04:23.359629",
+        "fused_emotion": {
+            "emotion": "fearful",
+            "valence": -0.6733613786467814,
+            "arousal": 0.8603540995815206,
+            "confidence": 0.6624606366941723,
+            "modalities": {
+                "video": {
+                    "emotion": "sad",
+                    "confidence": 0.35294076124616325,
+                    "valence": -0.6,
+                    "arousal": 0.5529407612461632
+                },
+                "audio": {
+                    "emotion": "fearful",
+                    "confidence": 0.9719805121421814,
+                    "valence": -0.7,
+                    "arousal": 0.9719805121421814
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "high",
+            "predicted_state": "incoming_frustration",
+            "recommended_action": "slow_down",
+            "micro_prompt": "I notice this might be getting tricky. Want a simpler version?"
+        }
+    },
+    {
+        "timestamp": "2025-12-10T07:04:49.193784",
+        "fused_emotion": {
+            "emotion": "fearful",
+            "valence": -0.6733613786467814,
+            "arousal": 0.8603540995815206,
+            "confidence": 0.44164042446278157,
+            "modalities": {
+                "video": {
+                    "emotion": "sad",
+                    "confidence": 0.35294076124616325,
+                    "valence": -0.6,
+                    "arousal": 0.5529407612461632
+                },
+                "audio": {
+                    "emotion": "fearful",
+                    "confidence": 0.9719805121421814,
+                    "valence": -0.7,
+                    "arousal": 0.9719805121421814
+                },
+                "text": {
+                    "emotion": "neutral",
+                    "confidence": 0.0,
+                    "valence": 0.0,
+                    "arousal": 0.0
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "high",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    },
+    {
+        "timestamp": "2025-12-10T07:04:59.171516",
+        "fused_emotion": {
+            "emotion": "fearful",
+            "valence": -0.6733613786467814,
+            "arousal": 0.8603540995815206,
+            "confidence": 0.44164042446278157,
+            "modalities": {
+                "video": {
+                    "emotion": "sad",
+                    "confidence": 0.35294076124616325,
+                    "valence": -0.6,
+                    "arousal": 0.5529407612461632
+                },
+                "audio": {
+                    "emotion": "fearful",
+                    "confidence": 0.9719805121421814,
+                    "valence": -0.7,
+                    "arousal": 0.9719805121421814
+                },
+                "text": {
+                    "emotion": "neutral",
+                    "confidence": 0.0,
+                    "valence": 0.0,
+                    "arousal": 0.0
+                }
+            }
+        },
+        "brain_action": {
+            "engagement_level": "low",
+            "cognitive_load": "high",
+            "predicted_state": "stable",
+            "recommended_action": "re_engage",
+            "micro_prompt": "Should I show an example or switch style?"
+        }
+    }
+]
